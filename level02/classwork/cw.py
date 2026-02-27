@@ -1,0 +1,15 @@
+print('telefoni') 
+print('kompiuteri') 
+print('gitara') 
+print(15) 
+print(28) 
+print(67) 
+print(62.2) 
+print(88.8) 
+print(99.9) 
+name='velosipedi'
+number=15 
+num=18.3 
+print(name)
+print(number) 
+print(num)

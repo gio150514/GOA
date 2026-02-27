@@ -1,0 +1,10 @@
+name='giorgi'
+print(name)
+name='manqana'
+print(name)
+name='sandro'
+print(name)
+name='elene'
+print(name)
+name='goa'
+print(name)

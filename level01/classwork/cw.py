@@ -1,0 +1,5 @@
+print('giorgi')
+print('goa')  
+print('saxli') 
+print('manqana') 
+print('python') 

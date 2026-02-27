@@ -1,0 +1,8 @@
+print('kartofili ') 
+print('dzagli') 
+print(15)
+print('dato') 
+print ('natia') 
+print('giorgi') 
+print('sandro') 
+print('elene') 
